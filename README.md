@@ -98,7 +98,7 @@ En "Tu Circulo Social" puedes editar el cuadro de texto para ir asignando los PN
 ## Crear un Personaje No Corvus
 Hacemos click en Crear Actor, le ponemos un nombre y seleccionamos el tipo "character" y se nos creará una ficha en blanco.
 
-![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/6a03b3d7-823c-4852-99a7-942eb0d2f2d2)
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/4b26c67b-7ed1-4392-bd66-718d88356bd5)
 
 Aqui tenemos que seleccionar en Template la llamada PNC_Template.
 
@@ -115,7 +115,7 @@ El resto de campos simplemente son para descripciones varias del personaje y com
 ## Crear un Ser Espectral
 Hacemos click en Crear Actor, le ponemos un nombre y seleccionamos el tipo "character" y se nos creará una ficha en blanco.
 
-![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/6a03b3d7-823c-4852-99a7-942eb0d2f2d2)
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/2f3f20a7-a3aa-4f59-b233-c869e1a78cb4)
 
 Aqui tenemos que seleccionar en Template la llamada Seres_Espectrales_Template.
 
