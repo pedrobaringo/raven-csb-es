@@ -7,7 +7,7 @@
 - [Añadir estilos CSS](#añadir-estilos-css)
 - [Crear un PC](#crear-un-pc)
   - [Pestaña de Personalidad y Acciones](#pestaña-de-personalidad-y-acciones)
-  - [Pestaña de Descripción y Notas](#pestaña-de-descripción-y-notas)
+  - [Pestaña de Magia y Secuelas](#pestaña-de-magia-y-secuelas)
 - [Crear un Personaje Potenciado](#crear-un-personaje-potenciado)
 - [Hacer tiradas](#hacer-tiradas)
 
@@ -51,18 +51,37 @@ Una vez hemos seleccionado la template y hacemos click en el icono de refrescar 
 En la parte de arriba se puede seleccionar el arquetipo (que activará los campos correspondientes de Acciones y Magia). Tambien tenemos para rellenar los campos de "Lo que te hace..." para definir el personaje.
 
 ### Pestaña de Personalidad y Acciones
-En esta pestaña tenemos primero 
+En esta pestaña tenemos primero las personalidades, donde podemos rellenar con el valor que corresponda cada una de ellas. Al clickar en el nombre de la personalidad se ejecutan las tiradas de dados.
 
-Tambien tenemos el contador de fichas de adversidad que se puede subir o bajar con los botones que aparecen al pasar por encima o escribiendo.
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/c972633b-8b80-4b6e-afbe-9c48d0a06c26)
 
-Finalmente tenemos la sección de virtudes donde podemos seleccionar las que tiene nuestro PJ y personalizar las que pueden ser personalizadas. Ademas si mantienes el ratón encima de la virtud aparece un tooltip con el efecto de esa virtud.
+En la parte derecha de esta pestaña tenemos las acciones con los checkboxes de las que se pueden ir adquiriendo al avanzar el personaje.
 
-![image](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/7caa7f61-9a74-467e-b358-c8bda1a74f5d)
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/b5f00c92-e545-4a6f-840c-314c5bac97b6)
 
-### Pestaña de Descripción y Notas
-En esta pestaña podrás describir tu personaje y tomar notas.
+En la parte izquierda, debajo de las personalidades tenemos las casillas donde rellenar "Tienes Tendencia Inquietante a...", " Tu Maldición" y "Tu Enigma Personal". Todos ellos tienen un cuadro de texto para que los jugadores puedan rellenarlo.
 
-![image](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/57ebada2-8c33-453d-8a32-9813be940934)
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/4a0bc420-10e8-4324-8d38-589b79b8804b)
+
+Debajo de las Acciones tenemos los campos "Tus hermanos y hermanas" (que se puede editar para añadir las descripciones que haga falta), y "Tu persona amada maldita" 8tambien con sus campos editables).
+
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/67e03609-d40f-4d14-a1a2-4b4f63548d09)
+
+### Pestaña de Magia y Secuelas
+En esta pestaña tenemos las tres casillas relacionadas con la magia y las secuelas, problemas, ayudas y giros pendientes.
+
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/be48b8bd-09a2-4dfc-9b3e-b7d831d319c1)
+
+En "Tu Arte Mágica Maldita" tienes el arte relacionada con el arquetipo que hayas seleccionado y puedes rellenar los campos editables.
+
+En la casilla de al lado tienes las acciones mágicas así como un sitio donde anotar tus sacrificios mágicos.
+
+En "Tu Círculo de Poder Mágico" puedes ir marcando en que nivel del círculo está tu personaje.
+
+En las últimas cuatro secciones puedes rellenar las secuelas que vayas recibiendo, así como anotar los problemas, giros y ayudas que vayan apareciendo durante la partida.
+
+### Pestaña de Caminos y Círculos
+
 
 ## Crear un Personaje Potenciado
 Hacemos click en Crear Actor, le ponemos un nombre y seleccionamos el tipo "character" y se nos creará una ficha en blanco.
