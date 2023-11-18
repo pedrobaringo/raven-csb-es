@@ -10,6 +10,7 @@
   - [Pestaña de Magia y Secuelas](#pestaña-de-magia-y-secuelas)
   - [Pestaña de Caminos y Círculos](#pestaña-de-caminos-y-círculos)
 - [Crear un Personaje No Corvus](#crear-un-personaje-no-corvus)
+- [Crear un Ser Espectral](#crear-un-ser-espectral)
 - [Hacer tiradas](#hacer-tiradas)
 
 ## Introducción
