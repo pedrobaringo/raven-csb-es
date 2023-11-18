@@ -43,9 +43,6 @@
       },
       "system": "custom-system-builder",
       "flags": {}
-    },
-      "system": "custom-system-builder",
-      "flags": {}
     }
   ],
   "url": "https://github.com/pedrobaringo/raven-csb-es",
