@@ -11,20 +11,20 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
     dice3d.addDicePreset({
       type:"dv",
       labels:[
-        'modules/raven-csb/images/CaraBlank.png', 
-        'modules/raven-csb/images/CaraBlank.png', 
-        'modules/raven-csb/images/CaraBlank.png', 
-        'modules/raven-csb/images/CaraGato.png',
-        'modules/raven-csb/images/CaraGato.png', 
-        'modules/raven-csb/images/CaraGato.png'
+        'modules/raven-csb-es/images/CaraBlank.png', 
+        'modules/raven-csb-es/images/CaraBlank.png', 
+        'modules/raven-csb-es/images/CaraBlank.png', 
+        'modules/raven-csb-es/images/CaraGato.png',
+        'modules/raven-csb-es/images/CaraGato.png', 
+        'modules/raven-csb-es/images/CaraGato.png'
       ],
       bumpMaps:[
-        'modules/raven-csb/images/CaraBlank_Bump.png', 
-        'modules/raven-csb/images/CaraBlank_Bump.png', 
-        'modules/raven-csb/images/CaraBlank_Bump.png', 
-        'modules/raven-csb/images/CaraGato_Bump.png',
-        'modules/raven-csb/images/CaraGato_Bump.png', 
-        'modules/raven-csb/images/CaraGato_Bump.png'
+        'modules/raven-csb-es/images/CaraBlank_Bump.png', 
+        'modules/raven-csb-es/images/CaraBlank_Bump.png', 
+        'modules/raven-csb-es/images/CaraBlank_Bump.png', 
+        'modules/raven-csb-es/images/CaraGato_Bump.png',
+        'modules/raven-csb-es/images/CaraGato_Bump.png', 
+        'modules/raven-csb-es/images/CaraGato_Bump.png'
       ],
 	  colorset:"blackCorvus",
       system: "ravenDice"
@@ -32,20 +32,20 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
 	dice3d.addDicePreset({
       type:"dn",
       labels:[
-        'modules/raven-csb/images/CaraBlank.png', 
-        'modules/raven-csb/images/CaraBlank.png', 
-        'modules/raven-csb/images/CaraBlank.png', 
-        'modules/raven-csb/images/CaraCuervo.png',
-        'modules/raven-csb/images/CaraCuervo.png', 
-        'modules/raven-csb/images/CaraCuervo.png'
+        'modules/raven-csb-es/images/CaraBlank.png', 
+        'modules/raven-csb-es/images/CaraBlank.png', 
+        'modules/raven-csb-es/images/CaraBlank.png', 
+        'modules/raven-csb-es/images/CaraCuervo.png',
+        'modules/raven-csb-es/images/CaraCuervo.png', 
+        'modules/raven-csb-es/images/CaraCuervo.png'
       ],
       bumpMaps:[
-        'modules/raven-csb/images/CaraBlank_Bump.png', 
-        'modules/raven-csb/images/CaraBlank_Bump.png', 
-        'modules/raven-csb/images/CaraBlank_Bump.png', 
-        'modules/raven-csb/images/CaraCuervo_Bump.png',
-        'modules/raven-csb/images/CaraCuervo_Bump.png', 
-        'modules/raven-csb/images/CaraCuervo_Bump.png'
+        'modules/raven-csb-es/images/CaraBlank_Bump.png', 
+        'modules/raven-csb-es/images/CaraBlank_Bump.png', 
+        'modules/raven-csb-es/images/CaraBlank_Bump.png', 
+        'modules/raven-csb-es/images/CaraCuervo_Bump.png',
+        'modules/raven-csb-es/images/CaraCuervo_Bump.png', 
+        'modules/raven-csb-es/images/CaraCuervo_Bump.png'
       ],
 	  colorset:"whiteCorvus",
       system: "ravenDice"
