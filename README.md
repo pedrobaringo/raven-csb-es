@@ -37,7 +37,7 @@ Para que el estilo de las fichas y mensajes sean más parecidos al libro debemos
 
 Para que tenga efecto debemos refrescar la página.
 
-## Crear un PC
+## Crear un Personaje Corvus
 Una vez estan importadas las templates ya podemos crear los Actores.
 Hacemos click en Crear Actor, le ponemos un nombre y seleccionamos el tipo "character" y se nos creará una ficha en blanco.
 
@@ -99,39 +99,45 @@ Hacemos click en Crear Actor, le ponemos un nombre y seleccionamos el tipo "char
 
 ![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/6a03b3d7-823c-4852-99a7-942eb0d2f2d2)
 
-Aqui tenemos que seleccionar en Template la llamada Personaje_Potenciado_Template.
+Aqui tenemos que seleccionar en Template la llamada PNC_Template.
 
 Una vez hemos seleccionado la template y hacemos click en el icono de refrescar en la ficha ya estamos listos para empezar a rellenarla.
 
-![image](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/38f1c13d-b7d9-4eed-9fcf-36728c9ffbf2)
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/41247787-8791-4ce9-b30e-af87c9fd6555)
 
-En la parte de arriba se pueden poner la edad, seleccionar si es niño/adolescente/adulto o dejarlo en blanco y escribir una descripción.
+En la parte de arriba podemos seleccionar si ese PNC tiene artes mágicas y si tiene relación con la Orden para que estos campos aparezcan en la ficha.
 
-Justo debajo tenemos las habilidades que funcionan como las de los PJs, pero con la posibilidad de no poner dado (hasta que se descubra). Tambien está el apartado de Energia Psiquica, donde podemos poner los puntos que tiene, tirar los dados y, para mayor personalización, seleccionar que dados y cuantos se tiran al usar los poderes (por defecto 2d4).
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/f0183bdc-b19f-4cc6-a3d4-7788dac03145)
 
-Debajo de las caracteristicas tenemos los Aspectos. Podemos crear filas en esta tabla haciendo click en el + y rellenarlas con los aspectos del personaje y el nombre del personaje que controla cada uno. Tambien podemso hacer check si queremos marcar en cada momento quien lo está controlando.
+El resto de campos simplemente son para descripciones varias del personaje y como se relaciona con los distintos actores de la ciudad. He añadido esta template por si se quieren usar tokens o algún módulo (como Theatre Inserts https://foundryvtt.com/packages/theatre ) que necesite fichas para mostrar las imagenes del personaje.
 
-![image](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/0b99ef3b-dbad-4cb7-b544-d11ec36a939c)
+## Crear un Ser Espectral
+Hacemos click en Crear Actor, le ponemos un nombre y seleccionamos el tipo "character" y se nos creará una ficha en blanco.
 
-Finalmente tenemos un apartado donde tomar notas abajo del todo.
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/6a03b3d7-823c-4852-99a7-942eb0d2f2d2)
+
+Aqui tenemos que seleccionar en Template la llamada Seres_Espectrales_Template.
+
+Una vez hemos seleccionado la template y hacemos click en el icono de refrescar en la ficha ya estamos listos para empezar a rellenarla.
+
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/b0cb13f6-9034-4346-9862-65128c513484)
+
+Los campos simplemente son para descripciones varias del ser e ideas para misterios. He añadido esta template por si se quieren usar tokens o algún módulo (como Theatre Inserts https://foundryvtt.com/packages/theatre ) que necesite fichas para mostrar las imagenes del personaje.
 
 ## Hacer tiradas
-Para hacer tiradas solamente se necesita clickar en el nombre de la habilidad que queramos tirar.
+Para hacer tiradas solamente se necesita clickar en el nombre de la Personalidad que queramos tirar.
 
-En general se tirará el dado correspondiente y si sale el valor más alto en el dado este explotará. Tambien se sumarán los modificadores de edad que aparecen al lado del dado.
+Una vez clickamos nos aparecerá un diálogo en el que seleccionar cuantos dados Corvus y de Niebla queremos usar y si es una tirada con Niebla Espesa. En los Dados Corvus, por defecto nos saldrá el valor que tengamos de esa Personalidad.
 
-![image](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/3b1cf0c4-ccf6-4245-88bf-53da4f93d8bc)
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/9a5b3eba-c0e1-434a-b78e-d303abb87744)
 
-En el mensaje del chat se puede hacer click en el resultado para ver como se ha obtenido:
+Una vez seleccionado y clickado el botón de aceptar se producirá la tirada y se mostrará el resultado
 
-![image](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/ab9aece9-b057-4cd5-841a-e0e580bccd80)
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/6cb7dd32-cd79-4839-b207-82d224dc02f6)
 
-Si tenemos que hacer una tirada con algún modificador lo podemos hacer manteniendo pulsado Mayus al clickar en la habilidad que querramos tirar. Nos aparecerá un dialogo donde poner el modificador:
+En el resultado se calculará automaticamente si se ha producido un Giro Favorable (resultado superior o igual a 2), un Giro con Complicación (resultado entre -1 y 1) o un Giro Tenebroso (resultado inferior o igual a -2).
 
-![image](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/f186704f-bfe9-4a2a-b25b-bdb0848c4c4b)
+Si seleccionamos hacer la tirada con Niebla Espesa se necesitarán dos resultados de Gato para anular un resultado de Cuervo y si solo queda un gato para enfrentarse a 1 o más cuervos no se tendrá en cuenta ese gato. El resultado mostrado en la tirada tiene esto en cuenta como podeis ver en los siguientes ejemplos con Niebla Espesa:
 
-En el caso de la Energia Psiquica de los Personajes Potenciados podemos elegir el tipo y numero de dados a tirar:
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/539df770-9241-4bf2-b4b0-1dc837b6a206) ![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/dc491a75-620e-4979-bedb-9cf932e0f4ac)
 
-![image](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/f878daa8-6643-47b9-8005-c9edcf3b4f4c)
-
-Al hacer click en Energia Psiquica se tiraran los dados seleccionados. Se pueden usar modificadores al igual que hemos descrito para el resto de tiradas.
