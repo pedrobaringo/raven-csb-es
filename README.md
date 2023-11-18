@@ -19,8 +19,7 @@ Modulo de Foundry VTT con las templates de las fichas para el juego Raven en esp
 
 Para aprender como instalarlo y usarlo podeis ver el tutorial en el siguiente enlace:
 
-[![Video del tutorial](http://img.youtube.com/vi/vsIx_xzhEPo/0.jpg)](http://www.youtube.com/watch?v=vsIx_xzhEPo "Tutorial Foundry-Kids on Bikes")
-
+![Fondo Tutorial Raven](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/7e5f7447-d5f6-476c-9e0d-72faede485db)
 
 ## Instalación
 Para instalar este módulo en Foundry tienes que usar el siguiente Manifest en el menú de módulos como se muestra en la imagen: https://github.com/pedrobaringo/raven-csb-es/releases/latest/download/module.json
