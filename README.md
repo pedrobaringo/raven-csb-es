@@ -5,10 +5,11 @@
 - [Introducción](#introducción)
 - [Instalación](#instalación)
 - [Añadir estilos CSS](#añadir-estilos-css)
-- [Crear un PC](#crear-un-pc)
+- [Crear un Personaje Corvus](#crear-un-personaje-corvus)
   - [Pestaña de Personalidad y Acciones](#pestaña-de-personalidad-y-acciones)
   - [Pestaña de Magia y Secuelas](#pestaña-de-magia-y-secuelas)
-- [Crear un Personaje Potenciado](#crear-un-personaje-potenciado)
+  - [Pestaña de Caminos y Círculos](#pestaña-de-caminos-y-círculos)
+- [Crear un Personaje No Corvus](#crear-un-personaje-no-corvus)
 - [Hacer tiradas](#hacer-tiradas)
 
 ## Introducción
@@ -81,12 +82,22 @@ En "Tu Círculo de Poder Mágico" puedes ir marcando en que nivel del círculo e
 En las últimas cuatro secciones puedes rellenar las secuelas que vayas recibiendo, así como anotar los problemas, giros y ayudas que vayan apareciendo durante la partida.
 
 ### Pestaña de Caminos y Círculos
+En esta pestaña tenemos los dos caminos, el de Niebla y el de Aprendizaje, ademas de otros campos para describir la gente y objetos que nos rodean.
 
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/e80fefe0-d552-4608-b8f7-9033b452b876)
 
-## Crear un Personaje Potenciado
+En el camino de Niebla podemos ir marcando las casillas de cada nivel a medida que vayamos adentrandonos en la Niebla. Una vez completado un nivel podemos elegir del desplegable el tipo de mágia y el Rasgo de Maldición.
+
+En el camino de Aprendizaje podemos marcar las casillas cada sesión y los avances una vez estén marcadas todas.
+
+En "Tu Ayuda de Cámara" y en "Tu Laboratorio" puedes describir brevemente a ese personaje y tu lugar de trabajo. En "Tu Biblioteca y Objetos Tenebrosos" puedes editar el campo para añadir más objetos y libros a parte del que viene por defecto según el arquetipo seleccionado.
+
+En "Tu Circulo Social" puedes editar el cuadro de texto para ir asignando los PNC que vayas encontrando y su relación contigo.
+
+## Crear un Personaje No Corvus
 Hacemos click en Crear Actor, le ponemos un nombre y seleccionamos el tipo "character" y se nos creará una ficha en blanco.
 
-![image](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/64c2877c-a108-40f8-870d-f27a02cda157)
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/6a03b3d7-823c-4852-99a7-942eb0d2f2d2)
 
 Aqui tenemos que seleccionar en Template la llamada Personaje_Potenciado_Template.
 
