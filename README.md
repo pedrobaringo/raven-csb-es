@@ -1,4 +1,5 @@
-![Fondo Tutorial Kids on Bikes](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/cc01b23d-0e75-4d58-96fe-232523b7f4f4)
+![Fondo Tutorial Raven](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/98ce6e8a-82c4-4514-b941-ddd657efac9f)
+
 # Fichas para Raven en Custom System Builder
 
 ## Tabla de Contenido
