@@ -528,6 +528,9 @@ hr {
  	border-image-slice: 60;
  	border-image-repeat: repeat;
 }
+.panelmagadv {
+border-top: 2px solid #671308;
+}
 div:empty {
        display: none;
     }
