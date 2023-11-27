@@ -31,13 +31,6 @@ Es importante que al importar mantenga el ID del documento como se ve en la imag
 
 ![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/0bf4b259-76db-455f-99cc-e40c732f4bd6)
 
-## Añadir estilos CSS
-Para que el estilo de las fichas y mensajes sean más parecidos al libro debemos ir a Configurar Ajustes --> Custom System Builder y allí rellenar el campo CSS Style file con "**modules/raven-csb-es/assets/Raven.css**", sin las comillas. Y ya que estamos en este menú, si queremos que nos aparezca un icono de dados al lado de los campos que se pueden tirar, en Roll Icons podemos poner "dice" (tambien sin comillas). En iniciativa no es necesario poner nada.
-
-![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/edb881a8-a658-4112-b384-d6d6fad9fbf4)
-
-Para que tenga efecto debemos refrescar la página.
-
 ## Crear un Personaje Corvus
 Una vez estan importadas las templates ya podemos crear los Actores.
 Hacemos click en Crear Actor, le ponemos un nombre y seleccionamos el tipo "character" y se nos creará una ficha en blanco.
