@@ -5,7 +5,6 @@
 ## Tabla de Contenido
 - [Introducción](#introducción)
 - [Instalación](#instalación)
-- [Añadir estilos CSS](#añadir-estilos-css)
 - [Crear un Personaje Corvus](#crear-un-personaje-corvus)
   - [Pestaña de Personalidad y Acciones](#pestaña-de-personalidad-y-acciones)
   - [Pestaña de Magia y Secuelas](#pestaña-de-magia-y-secuelas)
