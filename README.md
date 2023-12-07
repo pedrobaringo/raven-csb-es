@@ -114,9 +114,15 @@ Aqui tenemos que seleccionar en Template la llamada Seres_Espectrales_Template.
 
 Una vez hemos seleccionado la template y hacemos click en el icono de refrescar en la ficha ya estamos listos para empezar a rellenarla.
 
-![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/b0cb13f6-9034-4346-9862-65128c513484)
+Tenemos dos pestañas, la primera con descripciones varias del ser e ideas para misterios.
 
-Los campos simplemente son para descripciones varias del ser e ideas para misterios. He añadido esta template por si se quieren usar tokens o algún módulo (como Theatre Inserts https://foundryvtt.com/packages/theatre ) que necesite fichas para mostrar las imagenes del personaje.
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/21b70228-4857-479a-8e01-b63a6d6a8b71)
+
+La segunda pestaña es donde podemos definir los Giros Narrativos.
+
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/553434c1-5d4a-4ade-ac3f-2fe225eeb711)
+
+He añadido esta template por si se quieren usar tokens o algún módulo (como Theatre Inserts https://foundryvtt.com/packages/theatre ) que necesite fichas para mostrar las imagenes del personaje.
 
 ## Hacer tiradas
 Para hacer tiradas solamente se necesita clickar en el nombre de la Personalidad que queramos tirar.
