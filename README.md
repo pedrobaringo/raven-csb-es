@@ -96,13 +96,14 @@ Aqui tenemos que seleccionar en Template la llamada PNC_Template.
 
 Una vez hemos seleccionado la template y hacemos click en el icono de refrescar en la ficha ya estamos listos para empezar a rellenarla.
 
-![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/41247787-8791-4ce9-b30e-af87c9fd6555)
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/82e67e21-8036-4032-8b33-d0eea4ea9fcd)
 
 En la parte de arriba podemos seleccionar si ese PNC tiene artes mágicas y si tiene relación con la Orden para que estos campos aparezcan en la ficha.
+Tenemos dos pestañas, una con las distintas descripciones y la otra para consultar los giros narrativos.
 
-![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/f0183bdc-b19f-4cc6-a3d4-7788dac03145)
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/24e36557-8b15-4522-aec9-b7a25462b28b)
 
-El resto de campos simplemente son para descripciones varias del personaje y como se relaciona con los distintos actores de la ciudad. He añadido esta template por si se quieren usar tokens o algún módulo (como Theatre Inserts https://foundryvtt.com/packages/theatre ) que necesite fichas para mostrar las imagenes del personaje.
+He añadido esta template por si se quieren usar tokens o algún módulo (como Theatre Inserts https://foundryvtt.com/packages/theatre ) que necesite fichas para mostrar las imagenes del personaje.
 
 ## Crear un Ser Espectral
 Hacemos click en Crear Actor, le ponemos un nombre y seleccionamos el tipo "character" y se nos creará una ficha en blanco.
