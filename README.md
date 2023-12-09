@@ -101,6 +101,7 @@ Una vez hemos seleccionado la template y hacemos click en el icono de refrescar 
 ![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/fdace55c-fb09-42e1-a348-2ef213750c91)
 
 En la parte de arriba podemos seleccionar si ese PNC tiene artes mágicas y si tiene relación con la Orden para que estos campos aparezcan en la ficha si la templates es "PNC_Template".
+
 Tenemos dos pestañas, una con las distintas descripciones y la otra para consultar los giros narrativos.
 
 ![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/24e36557-8b15-4522-aec9-b7a25462b28b)
