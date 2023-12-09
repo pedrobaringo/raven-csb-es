@@ -92,13 +92,15 @@ Hacemos click en Crear Actor, le ponemos un nombre y seleccionamos el tipo "char
 
 ![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/4b26c67b-7ed1-4392-bd66-718d88356bd5)
 
-Aqui tenemos que seleccionar en Template la llamada PNC_Template.
+Aqui tenemos que seleccionar en Template la llamada "PNC_Template", si queremos la ficha para un Personaje que no pertenezca a la familia Corvus, o la llamada "PNC_FC_Template" si queremos crear a alguien de la familia Corvus (los padres por ejemplo).
 
 Una vez hemos seleccionado la template y hacemos click en el icono de refrescar en la ficha ya estamos listos para empezar a rellenarla.
 
 ![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/82e67e21-8036-4032-8b33-d0eea4ea9fcd)
 
-En la parte de arriba podemos seleccionar si ese PNC tiene artes mágicas y si tiene relación con la Orden para que estos campos aparezcan en la ficha.
+![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/fdace55c-fb09-42e1-a348-2ef213750c91)
+
+En la parte de arriba podemos seleccionar si ese PNC tiene artes mágicas y si tiene relación con la Orden para que estos campos aparezcan en la ficha si la templates es "PNC_Template".
 Tenemos dos pestañas, una con las distintas descripciones y la otra para consultar los giros narrativos.
 
 ![image](https://github.com/pedrobaringo/raven-csb-es/assets/148097688/24e36557-8b15-4522-aec9-b7a25462b28b)
